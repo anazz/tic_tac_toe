@@ -1,14 +1,14 @@
-*** Tic_tac_toe ***
+<title> Tic_tac_toe </title>
 *******************
 Projet TicTacToe
 
 Réalisé par la Team Courgette avec amour, sueur et perte de neurones :
 <ul>
 	<li>Ana Zegheanu</li>
-	<li>Tatijana Rajcic<li>
-	<li>Olivier Dumas<li>
-	<li>Richard Jackson<li>
-	<li>Paul Aguadisch<li>
+	<li>Tatijana Rajcic</li>
+	<li>Olivier Dumas</li>
+	<li>Richard Jackson</li>
+	<li>Paul Aguadisch</li>
 <ul>
 Programme ---> plus communément appelé "jeu de morpions" (si on peut appeler ça un jeu) Après avoir rentré votre nom avec l'un de vos amis, vous devez choisir une lettre et un chiffre en A,B,C et 1,2,3. Et voyez-ce qu'il se passe !
 
